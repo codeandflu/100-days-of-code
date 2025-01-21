@@ -1,10 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Ashfaq Ashraf
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on 21 Jabuary 2025
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Started Completing lessons from Odin Project which I had left long back. Going through foundations have got good clarity on git add commits push
+Completed until lists. Will coe today itself a little while later 
 
 ### R1D2
