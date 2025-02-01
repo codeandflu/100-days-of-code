@@ -28,5 +28,5 @@ link : https://github.com/codeandflu/css-exercises/blob/main/foundations/block-a
 
 -CampusX - DSMP1
 Wrote a program to add sum of 3 digit numbers collected by input
-link : https://github.com/codeandflu/dsmp-1/blob/main/session-two-operators-if-else-loops/test-program.py
+link : https://github.com/codeandflu/dsmp-1/blob/main/session-two-operators-if-else-loops/test-program.p
 
