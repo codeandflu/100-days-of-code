@@ -26,7 +26,13 @@ Link : https://www.freecodecamp.org/learn/full-stack-developer/lab-travel-agency
 Completed first CSS assignment on margin and padding
 link : https://github.com/codeandflu/css-exercises/blob/main/foundations/block-and-inline/01-margin-and-padding-1/style.css
 
+### R1D4
 -CampusX - DSMP1
 Wrote a program to add sum of 3 digit numbers collected by input
-link : https://github.com/codeandflu/dsmp-1/blob/main/session-two-operators-if-else-loops/test-program.p
+link : https://github.com/codeandflu/dsmp-1/blob/main/session-two-operators-if-else-loops/test-programs/inpt-three-digits-sum.py
+
+### R1D5
+-CampusX - DSMP1
+Wrote a program to add sum of 3 digit numbers collected by input
+link : https://github.com/codeandflu/dsmp-1/blob/main/session-two-operators-if-else-loops/test-programs/email-pwd-auth-program.py
 
