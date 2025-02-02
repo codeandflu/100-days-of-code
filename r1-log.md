@@ -33,6 +33,8 @@ link : https://github.com/codeandflu/dsmp-1/blob/main/session-two-operators-if-e
 
 ### R1D5
 -CampusX - DSMP1
-Wrote a program to add sum of 3 digit numbers collected by input
+Wrote a program to for email and password authentication on python, understood concept of if else and elif
 link : https://github.com/codeandflu/dsmp-1/blob/main/session-two-operators-if-else-loops/test-programs/email-pwd-auth-program.py
+
+
 
