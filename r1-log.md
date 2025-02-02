@@ -36,5 +36,11 @@ link : https://github.com/codeandflu/dsmp-1/blob/main/session-two-operators-if-e
 Wrote a program to for email and password authentication on python, understood concept of if else and elif
 link : https://github.com/codeandflu/dsmp-1/blob/main/session-two-operators-if-else-loops/test-programs/email-pwd-auth-program.py
 
+Link : https://github.com/codeandflu/dsmp-1/blob/main/session-two-operators-if-else-loops/test-programs/menu-driven-calculator.py
+
+-The Odin Project
+Completed one excercise on CSS foundations
+Link : https://github.com/codeandflu/css-exercises/tree/main/foundations/intro-to-css/01-css-methods
+
 
 
